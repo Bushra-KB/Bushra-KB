@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://github.com/Bushra-KB/myResources/blob/main/profilepic1.jpg" width="300" />
   <div id="badges">
-  <a href="your-linkedin-URL">
+  <a href="https://www.facebook.com/Ethiobush">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
   <a href="your-youtube-URL">
