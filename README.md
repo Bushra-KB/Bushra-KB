@@ -53,17 +53,18 @@
 <hr />
 
 ### :fire: My Stats :
-<div width="100%">
-  
 
   
+<div align="center">
+  
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Bushra-KB&theme=radical)](https://git.io/streak-stats)  
-    
+
+</div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bushra-KB&show_icons=true&theme=radical)](https://github.com/Bushra-KB/github-readme-stats)
 
 
-</div>
+
 
 
 
