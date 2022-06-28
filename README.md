@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="100"/>
+  <img src="https://github.com/Bushra-KB/myResources/blob/main/profilepic1.jpg" width="300" />
   <div id="badges">
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=Bushra-KB&style=flat-square&color=blue" alt=""/>
 
 <hr />
   
@@ -20,7 +20,8 @@
  
 </div>
 
-### Hi there 👋
+### :raising_hand_man: About Me:
+- 👋 Hello there!, I am **Bushra KM.** 
 - 🔭 I’m Electrical and Computer Engineer
 - 🌱 I’m passionated and addicted to programming, every day
 - 👯 I’m looking to collaborate on ATS, NLP tools for ethiopian languages
