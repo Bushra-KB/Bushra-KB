@@ -70,15 +70,17 @@
 ## :fire: My GitHub Stats :
 
 <p align="center"> 
-	<img src="https://github-readme-stats.vercel.app/api?username=Bushra-KB&theme=radical&show_icons=true&count_private=true&hide_border=true&custom_title= Bushra's GitHub Stats"  width="48%" alt="github-readme-stats"/>
-	<img src="https://github-readme-streak-stats.herokuapp.com?user=Bushra-KB&theme=radical&hide_border=true"   width="48%" alt="github-readme-stats"/>
+	<img src="https://github-readme-stats.vercel.app/api?username=Bushra-KB&theme=radical&show_icons=true&count_private=true&hide_border=true&custom_title= Bushra's GitHub Stats"  width="48%"  alt="github-readme-stats"/>
+	<img src="https://github-readme-streak-stats.herokuapp.com?user=Bushra-KB&theme=radical&hide_border=true"   width="48%"  alt="github-readme-stats"/>
+
 </p>
 
 
 
 <!-- activity graph heroku-app start -->
 <p align="center">
-	<img src="https://activity-graph.herokuapp.com/graph?username=Bushra-KB&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Bushra's%20Total%20contribution%20graph%20in%20all%20repo" width="96%" alt="activity graph">
+	<img src="https://activity-graph.herokuapp.com/graph?username=Bushra-KB&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Bushra's%20Total%20contribution%20graph%20in%20all%20repo" width="96%" alt="activity graph" />
+
    
 </p>
 
@@ -88,20 +90,13 @@
 </p>
 
 <p align="center"> 
+	<img src="https://github-profile-trophy.vercel.app/?username=Bushra-KB&theme=matrix"   alt="github-profile-trophy"/>
+	
+	
 </p>
 
 
-
-<p align="center">
-<a href="https://wakatime.com/@Voko"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=Voko&theme=gotham&hide_border=true&layout=compact&hide_title=true&langs_count=14"  width="58%" alt="@Voko's wakatime stats"/></a>
-<a href="https://github.com/Aleksey-Voko?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=Aleksey-Voko&theme=onestar&no-frame=true&column=3&row=2"  width="38%" alt="@Voko's trophy stats"/></a>
-</p>
-
-
-<p align="center">
-<a href="https://github.com/pulls?q=is%3Apr+author%3AAleksey-Voko+archived%3Afalse+is%3Aclosed"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aleksey-Voko&theme=github_dark&utcOffset=4"  width="31%" alt="@Voko's productive-time"/></a>
-<a href="https://github.com/issues?q=is%3Aissue+author%3AAleksey-Voko+archived%3Afalse+is%3Aclosed"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aleksey-Voko&theme=github_dark&hide_border=true"  width="64%" alt="@Voko's profile-details"/></a>
-</p>
+<hr>
 
 
 
@@ -133,19 +128,14 @@
 
 
 
---------------------------------
-  
-<div align="center">
-  
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Bushra-KB&theme=radical)](https://git.io/streak-stats)  
 
-</div>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bushra-KB&show_icons=true&theme=radical)](https://github.com/Bushra-KB/github-readme-stats)
+<hr>
 
 
-
-
+<p align="center">
+	<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Voko&theme=gotham&hide_border=true"  width="48%" alt="@Voko's wakatime stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bushra-KB&show_icons=true&theme=radical"  width="48%" alt="@Voko's wakatime stats"/>
+</p>
 
 
 
