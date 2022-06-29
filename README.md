@@ -35,16 +35,16 @@
  
 </div>
 
-### :raising_hand_man: About Me:
+## :raising_hand_man: About Me:
 - 👋 Hello there!, I am **Bushra KM.** 
 - 🔭 I’m Electrical and Computer Engineer
 - 🌱 I’m passionated and addicted to programming, every day
 - 👯 I’m looking to collaborate on ATS, NLP tools for ethiopian languages
 - 💬 Ask me about ... any thing
 - 📫 How to reach me: "bushra.kmb@gmail.com"
-<hr />
 
-### :hammer_and_wrench: Languages and Tools :
+
+## :hammer_and_wrench: Languages and Tools :
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="100" height="100"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="100" height="100"/>&nbsp;
@@ -65,32 +65,31 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="70" height="70"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="70" height="70"/>
 </div>
-<hr />
+
 
 ## :fire: My GitHub Stats :
 
 <p align="center"> 
-	<img src="https://github-readme-stats.vercel.app/api?username=Bushra-KB&theme=radical&show_icons=true&count_private=true&hide_border=true&custom_title= Bushra's GitHub Stats"  width="32.5%" alt="github-readme-stats"/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Bushra-KB&theme=gotham&hide_border=true"   width="32.5%" alt="github-readme-stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bushra-KB&show_icons=true&theme=radical&layout=compact"  width="32.5%" alt="github-readme-stats"/>
+	<img src="https://github-readme-stats.vercel.app/api?username=Bushra-KB&theme=radical&show_icons=true&count_private=true&hide_border=true&custom_title= Bushra's GitHub Stats"  width="48%" alt="github-readme-stats"/>
+	<img src="https://github-readme-streak-stats.herokuapp.com?user=Bushra-KB&theme=radical&hide_border=true"   width="48%" alt="github-readme-stats"/>
 </p>
 
---------
-
-
-<p align="center">
-<a href="https://github.com/Aleksey-Voko?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=Aleksey-Voko&theme=gotham&show_icons=true&count_private=true&hide_border=true"  width="48%" alt="@Voko's github-readme-stats"/></a>
-<a href="https://github.com/Aleksey-Voko?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=Aleksey-Voko&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@Voko's github-readme-streak-stats"/></a>
-</p>
 
 
 <!-- activity graph heroku-app start -->
 <p align="center">
-    <a href="https://wakatime.com/@Voko">
-        <img src="https://activity-graph.herokuapp.com/graph?username=Aleksey-Voko&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
-    </a>
+	<img src="https://activity-graph.herokuapp.com/graph?username=Bushra-KB&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Bushra's%20Total%20contribution%20graph%20in%20all%20repo" width="96%" alt="activity graph">
+   
 </p>
-<!-- activity graph heroku-app end -->
+
+<p align="center">
+	<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Bushra-KB&theme=github_dark&utcOffset=4"  width="32%" alt="productive-time"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bushra-KB&theme=github_dark&hide_border=true"  width="64%" alt="profile-details"/>
+</p>
+
+<p align="center"> 
+</p>
+
 
 
 <p align="center">
@@ -105,7 +104,6 @@
 </p>
 
 
-<a href="https://rextester.com/l/python3_online_compiler"><img src="./assets/colored.png"  width="100%" alt="python3_online_compiler"/></a>
 
 
 <p align="center">
