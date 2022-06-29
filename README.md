@@ -1,5 +1,7 @@
 <div id="header" align="center">
-  <img src="https://github.com/Bushra-KB/myResources/blob/main/profilepic1.jpg" width="300" />
+  <img src="https://github.com/Bushra-KB/myResources/blob/main/profilepic1.jpg" width="300" /> 
+  
+  ### Hey! 👋 I am *Bushra KM.* , Nice to see you. 
   <div id="badges">
   <a href="https://www.facebook.com/Ethiobush">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
@@ -10,13 +12,26 @@
   <a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+  <a href="your-telegram-URL">
+    <img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Twitter Badge"/>
+  </a>
 </div>
-<img src="https://komarev.com/ghpvc/?username=Bushra-KB&style=flat-square&color=blue" alt=""/>
 
-<hr />
-  
- 
-    
+
+
+<p align="center">
+<img src="https://img.shields.io/github/followers/Bushra-KB?style=social" alt="followers">
+<img src="https://img.shields.io/github/forks/Bushra-KB/Bushra-KB?style=social" alt="forks">
+<img src="https://img.shields.io/github/stars/Bushra-KB?style=social" alt="stars">
+<img src="https://wakatime.com/badge/user/8cc8aa38-4041-409b-9d27-a85e5b897ad4.svg?style=social" alt="wakatime">
+<img src="https://img.shields.io/github/stars/Bushra-KB/app-ideas?style=social" alt="stars2">
+<img src="https://img.shields.io/github/watchers/Bushra-KB/Bushra-KB?style=social" alt="watchers">
+<img src="https://komarev.com/ghpvc/?username=Bushra-KB&style=flat-square&color=blue" alt=""/>
+</p>
+<p align="center"> 
+  <img src="https://profile-counter.glitch.me/Bushra-KB/count.svg" />
+</p>
+
  
 </div>
 
