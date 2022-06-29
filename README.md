@@ -69,6 +69,14 @@
 
 ## :fire: My GitHub Stats :
 
+<p align="center"> 
+	<img src="https://github-readme-stats.vercel.app/api?username=Bushra-KB&theme=radical&show_icons=true&count_private=true&hide_border=true&custom_title= Bushra's GitHub Stats"  width="32.5%" alt="github-readme-stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Bushra-KB&theme=gotham&hide_border=true"   width="32.5%" alt="github-readme-stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bushra-KB&show_icons=true&theme=radical&layout=compact"  width="32.5%" alt="github-readme-stats"/>
+</p>
+
+--------
+
 
 <p align="center">
 <a href="https://github.com/Aleksey-Voko?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=Aleksey-Voko&theme=gotham&show_icons=true&count_private=true&hide_border=true"  width="48%" alt="@Voko's github-readme-stats"/></a>
