@@ -45,7 +45,7 @@
 - 📫 How to reach me: "bushra.kmb@gmail.com"
 
 
-## :hammer_and_wrench: My Stuck (Languages, Tools & Technology):
+## :hammer_and_wrench: My Stuck (Skills, Languages & Tools):
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="100" height="100"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="100" height="100"/>&nbsp;
