@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://github.com/Bushra-KB/myResources/blob/main/profilepic1.jpg" width="300" /> 
+  <img src="https://github.com/Bushra-KB/myResources/blob/main/propic2.png" width="300" /> 
   
   ### Hey! 👋 I am *Bushra KM.* , Nice to see you. 
   <div id="badges">
