@@ -6,7 +6,7 @@
   <a href="https://www.facebook.com/Ethiobush">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
-  <a href="https://youtube.com">
+  <a href="[https://youtube.com](http://www.youtube.com/@yegnaTech1)">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a href="https://twitter.com">
