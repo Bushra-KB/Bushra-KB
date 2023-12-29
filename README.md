@@ -101,6 +101,10 @@
 
 
 <hr>
+<p align="center">
+	
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bushra-KB&show_icons=true&theme=radical"  width="48%" alt="@Voko's wakatime stats"/>
+</p>
 
 
 
