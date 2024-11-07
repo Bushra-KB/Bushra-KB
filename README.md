@@ -96,10 +96,13 @@
 <hr>
 <p align="center">
 	
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bushra-KB&show_icons=true&theme=radical"  width="48%" alt="@Voko's wakatime stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bushra-KB&show_icons=true&theme=radical"  width="48%" alt="bbb"/>
 </p>
 
-
+<p align="center">
+	
+<img src="[https://github.com/Bushra-KB/](https://github.com/Bushra-KB/myResources/blob/main/profile-green-animate.svg)" alt="bbb"/>
+</p>
 
 
 
