@@ -81,12 +81,7 @@
 
 
 
-<!-- activity graph heroku-app start -->
-<p align="center">
-	<img src="https://activity-graph.herokuapp.com/graph?username=Bushra-KB&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Bushra's%20Total%20contribution%20graph%20in%20all%20repo" width="96%" alt="activity graph" />
 
-   
-</p>
 
 <p align="center">
 	<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Bushra-KB&theme=github_dark&utcOffset=4"  width="32%" alt="productive-time"/>
