@@ -74,9 +74,7 @@
 ## :fire: My GitHub Stats :
 
 <p align="center"> 
-
 	<img src="https://github-readme-streak-stats.herokuapp.com?user=Bushra-KB&theme=radical&hide_border=true"   width="48%"  alt="github-readme-stats"/>
-
 </p>
 
 
