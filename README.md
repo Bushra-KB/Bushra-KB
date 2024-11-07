@@ -101,7 +101,7 @@
 
 <p align="center">
 	
-<img src="[https://github.com/Bushra-KB/](https://github.com/Bushra-KB/myResources/blob/main/profile-green-animate.svg)" alt="bbb"/>
+<img src="https://github.com/Bushra-KB/myResources/blob/main/profile-green-animate.svg" alt="bbb"/>
 </p>
 
 
