@@ -42,7 +42,7 @@
 
 - 👋 Hello there!, I am **Bushra KM.** 
 - 🔭 A passionate Full Stack developer from Ethiopia.
-- 🎓 I'have BSc. in Electrical and Computer Engineering, and MSc. in Computer Engineering.
+- 🎓 I'have **BSc.** in *Electrical and Computer Engineering*, and **MSc.** in *Computer Engineering*. <u>underlined text</u>
 - 🌱 I’m passionate about programming and engage with it every day. Addicted to Coding. 
 - 👯 I’m looking to collaborate on ATS, NLP tools for ethiopian languages
 - 💬 You can ask me about ... any thing
