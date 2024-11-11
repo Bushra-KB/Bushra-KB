@@ -58,11 +58,11 @@
 
 ## :fire: My GitHub Stats :
 
-<p>
+<div>
 	
-	<img align="left" src="https://github-readme-stats.vercel.app/api?username=bushra-kb&show_icons=true&locale=en" alt="bushra-kb" />
-	<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=bushra-kb&" alt="bushra-kb" />
-</p>
+	<img src="https://github-readme-stats.vercel.app/api?username=bushra-kb&show_icons=true&locale=en" alt="bushra-kb" />
+	<img src="https://github-readme-streak-stats.herokuapp.com/?user=bushra-kb&" alt="bushra-kb" />
+</div>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bushra-kb&show_icons=true&locale=en" alt="bushra-kb" /></p>
 
