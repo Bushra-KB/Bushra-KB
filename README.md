@@ -59,8 +59,9 @@
 ## :fire: My GitHub Stats :
 
 <p>
-	<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bushra-kb&show_icons=true&locale=en&layout=compact" alt="bushra-kb" />
-	<img align="right" src="https://github-readme-stats.vercel.app/api?username=bushra-kb&show_icons=true&locale=en" alt="bushra-kb" />
+	
+	<img align="left" src="https://github-readme-stats.vercel.app/api?username=bushra-kb&show_icons=true&locale=en" alt="bushra-kb" />
+	<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=bushra-kb&" alt="bushra-kb" />
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bushra-kb&show_icons=true&locale=en" alt="bushra-kb" /></p>
