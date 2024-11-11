@@ -60,23 +60,7 @@
 <img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=bushra-kb&show_icons=true&locale=en" alt="bushra-kb" />
 <img align="right" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=bushra-kb&" alt="bushra-kb" />
 
-<div>
-	
-</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bushra-kb&show_icons=true&locale=en" alt="bushra-kb" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bushra-kb&" alt="bushra-kb" /></p>
-
-
-
-<p align="center"> 
-	<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=bushra-kb&show_icons=true&locale=en" alt="bushra-kb" />
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bushra-kb&show_icons=true&locale=en&layout=compact" alt="bushra-kb" /> 
- 
- 
-	<img align="right" width="50%" src="https://github-readme-streak-stats.herokuapp.com?user=Bushra-KB&theme=radical&hide_border=true"    alt="github-readme-stats" />
-</p>
 
 
 
