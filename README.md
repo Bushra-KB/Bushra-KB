@@ -47,6 +47,7 @@
 - 🧑‍🤝‍🧑 I’m looking to collaborate on ATS, NLP tools for ethiopian languages
 - 💬 You can ask me about ... any thing
 - 📫 How to reach me: "bushra.kmb@gmail.com"
+- Support: <a href="https://www.buymeacoffee.com/bushrakmbs"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="bushrakmbs" /></a><a href="https://ko-fi.com/bushrakmbs"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="bushrakmbs" /></a>
 
 
 ## :hammer_and_wrench: My Stack (Skills, Languages & Tools):
