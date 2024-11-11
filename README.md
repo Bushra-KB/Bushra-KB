@@ -58,6 +58,8 @@
 
 ## :fire: My GitHub Stats :
 <img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=bushra-kb&show_icons=true&locale=en" alt="bushra-kb" />
+<img align="right" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=bushra-kb&" alt="bushra-kb" />
+
 <div>
 	
 </div>
