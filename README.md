@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img width="100%" height="330px" src="https://github.com/Bushra-KB/myResources/blob/main/home4.jpg"  /> 
   
-  ### Hey! 👋 I am *Bushra KM.*, Nice to see you. 
+  ## Hey! 👋 I am *Bushra KM.*, Nice to see you!
   <div id="badges">
   <a href="https://www.facebook.com/Ethiobush">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
