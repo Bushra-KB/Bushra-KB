@@ -94,13 +94,14 @@
 	
 <img src="https://github.com/Bushra-KB/myResources/blob/main/profile-green-animate.svg" alt="bbb"/>
 </p>
-<center>
+
 <div align="center> 
+	<center>
 	<a align="center" href="https://www.buymeacoffee.com/bushrakmbs"> 
 	<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="bushrakmbs" />
-  </a> 
+  </a> </center>
+
 </div>
-</center>
 
 
 
