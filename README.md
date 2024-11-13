@@ -97,7 +97,7 @@
 
 <div align="center> 
 	<center>
-	<a  href="https://www.buymeacoffee.com/bushrakmbs" align="center"> 
+	<a  href="https://www.buymeacoffee.com/bushrakmbs" > 
 	<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="bushrakmbs" />
   </a> </center>
 
