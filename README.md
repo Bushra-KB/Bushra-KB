@@ -12,6 +12,9 @@
   <a href="https://x.com/BushraKmb">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+  <a href="https://www.tiktok.com/@bushtech11">  
+    <img src="https://img.icons8.com/?size=100&id=3veRWJpxPPDH&format=png&color=000000" alt="Twitter Badge"/>
+  </a>
   <a href="https://www.linkedin.com/in/bushra-kidanemariam-419615244/">
     <img src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin Badge"/>
   </a>
