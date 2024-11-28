@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img  src="https://github.com/Bushra-KB/myResources/blob/main/home51.jpg"  /> 
+  <img  src="https://github.com/Bushra-KB/myResources/blob/main/home51.jpg" style="pointer-events: none;"  /> 
   
   ## Hey, nerds! 👋 I am *Bushra KM.*, Nice to see you!
   <div id="badges">
