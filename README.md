@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <img  src="https://github.com/Bushra-KB/myResources/blob/main/home51.jpg" style="pointer-events: none;"  /> 
-  
+
   ## Hey, nerds! 👋 I am *Bushra KM.*, Nice to see you!
   <div id="badges">
   <a href="https://www.facebook.com/Ethiobush">
@@ -55,7 +55,7 @@
 - 📫 How to reach me: "bushra.kmb@gmail.com"
 - 🎁 Support Me: <a href="https://www.buymeacoffee.com/bushrakmbs"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="30" alt="bushrakmbs" /></a>  
 
-
+--bb--
 
 ## :hammer_and_wrench: My Stack (Skills, Languages & Tools):
 
